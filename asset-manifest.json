@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/d3-lucky/static/css/main.e21bfd21.css",
+    "main.js": "/d3-lucky/static/js/main.fab89cf4.js",
+    "static/js/453.ed3810f9.chunk.js": "/d3-lucky/static/js/453.ed3810f9.chunk.js",
+    "static/media/SampleDataset.csv": "/d3-lucky/static/media/SampleDataset.1a13c1758e940941af06.csv",
+    "index.html": "/d3-lucky/index.html",
+    "main.e21bfd21.css.map": "/d3-lucky/static/css/main.e21bfd21.css.map",
+    "main.fab89cf4.js.map": "/d3-lucky/static/js/main.fab89cf4.js.map",
+    "453.ed3810f9.chunk.js.map": "/d3-lucky/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21bfd21.css",
+    "static/js/main.fab89cf4.js"
+  ]
+}
